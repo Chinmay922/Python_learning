@@ -2,7 +2,7 @@
 
 Practice python programs to get hands-on with python. 
 
-# Task 1 [Python_programs](Task1)
+# Task 1 [Task1](Task1)
 
 In a given array of integers, we need to find two numbers such that they can add up to a specific number.
 We may assume there is exactly one solution, and we can’t use the same element twice. We also need to analyze the time complexity of the program 
