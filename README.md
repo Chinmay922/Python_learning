@@ -60,15 +60,12 @@ Making a NumPy program to get the values and indices of the elements that are bi
 Using template matching with OpenCV to find Messi’s face in an image, try 6 different methods given in the program and plotting the result to understand the difference.
 
 ![](Result%20images/image6.png)
-
 ![](Result%20images/image7.png)
 
 ![](Result%20images/image8.png)
-
 ![](Result%20images/image9.png)
 
 ![](Result%20images/image10.png)
-
 ![](Result%20images/image11.png)
 
 # License
