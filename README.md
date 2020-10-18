@@ -35,7 +35,7 @@ Using OpenCV to do a bilateral filter to a given image and visualizing the image
 
 # Task 7
 
-Given a binary tree and a sum, determining if the tree has a root-to-leaf path such that adding up all the values along the path equals the given sum. A leaf in this tree is a node with no children.
+Given a binary tree and a sum, determining if the tree has a root-to-leaf path such that adding up all the values along the path equals the given sum. A leaf in the tree is a node with no children.
 
 # Task 8
 
