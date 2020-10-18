@@ -15,7 +15,7 @@ Constructing a binary tree, and finding the maximum depth of the tree. Giving a 
 
 In two non-empty linked lists representing two non-negative integers the digits are stored in reverse order and each of their nodes contain a single digit. Adding the two numbers and returning it as a linked list. We are assuming that the two numbers does not contain any leading zero except the number zero itself. Also designing a custom input to test the program
 
-
+![](Result%20images/image1.png)
 
 # Task 4
 
